@@ -3,7 +3,7 @@
 ## Author: Zehel Fenris
 ## Version: @project-version@
 ## Notes: Category for Naxxramas crafting items.
-## X-Curse-Project-ID: 
+## X-Curse-Project-ID: 1071062
 ## Dependencies: BetterBags
 
 main.lua
