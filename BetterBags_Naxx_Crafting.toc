@@ -1,7 +1,7 @@
 ## Interface: 110000
 ## Title: BetterBags - Naxxramas crafting
 ## Author: Zehel Fenris
-## Version: 1.0.0
+## Version: @project-version@
 ## Notes: Category for Naxxramas crafting items.
 ## X-Curse-Project-ID: 
 ## Dependencies: BetterBags
