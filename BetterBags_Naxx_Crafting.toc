@@ -1,4 +1,4 @@
-## Interface: 110105, 110107
+## Interface: 110200
 ## Title: BetterBags - Naxxramas crafting
 ## Author: Zehel Fenris
 ## Version: @project-version@
@@ -7,3 +7,4 @@
 ## Dependencies: BetterBags
 
 main.lua
+
